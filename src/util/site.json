@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Verwenmassage",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Massages als verwenkoffie: volledige lichaamsmassage met dát extra, even verkwikkend als een heerlijke verwenkoffie.",
+    "siteUrl": "https://verwenkoffie.netlify.app/",
+    "image": "/assets/istockphoto-1205484971-1024x1024.jpg",
+    "iconimage": "/assets/istockphoto-1205484971-1024x1024.jpg",
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-60W0PMD05M"
 }
