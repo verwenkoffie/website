@@ -1,12 +1,14 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: verwenmassages
+tagline: erotische massages voor vrouwen
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Over mij
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Een verwenkoffie op het gepaste moment kan een wat mindere dag plots sprankels geven en je weer helemaal wakker bent in je hoofd.
+
+Met mijn verwenmassages probeer ik je net ook dat gevoel te geven voor je hoofd en lichaam: een heerlijke massage over heel je lichaam met net dát extraatje dat je lichaam nog een tijdje van mag nazinderen.
