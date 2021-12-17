@@ -4,6 +4,16 @@ slug: /about
 title: Over mij
 ---
 
+Heel fijn dat je meer over me wilt te weten komen!
+
+Ik ben een man geboren in 1981. Ik ben het type dat niet onnmiddellijk opvalt, het type dat je vriendelijke buur had kunnen zijn. Ik ben hoger opgeleid, heb een brede interesse en ben gemakkelijk in de omgang. Ik pendel met de fiets naar het werk en heb daarmee wel een goede basisconditie. Op de foto's kan je zien dat ik normaal gebouwd ben en van nature weinig beharing heb.
+
+Ik heb ervaren dat het geven van genot en plezier aan een vrouw mij veel voldoening en energie geeft. Ik heb het altijd fijn gevonden een vrouw een massage te geven, van kop tot teen, over gans haar lichaam dat waarbij aan het einde de intieme delen ook niet onberoerd bleven. Ik ben geen professionele masseur, maar heb wel al een reeks complimentjes mogen krijgen! :-)
+
+Ik heb een full-time job en doe dit voor mijn plezier. Dat betekent enerzijds dat een afspraak met mij geen bandwerk is en met zorg wordt ingevuld. Ik hecht dan ook veel belang aan vooraf goed afstemmen van onze beide wensen. Anderzijds kan ik niet altijd tijd vrijmaken voor een afspraak. Ik tracht de pagina met mijn beschikbaarheid regelmatig up-to-date te houden!
+
+Vertrouwen, hygiëne en discretie draag ik hoog in het vaandel. Ik verwacht dat ook van jou.
+
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
 A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.

@@ -1,9 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contact leggen
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Je kan me het makkelijkst bereiken via email op verwenkoffie at gmail.com of via onderstaand formulier. Ik tracht zo snel mogelijk te antwoorden! Ik ben niet telefonisch bereikbaar aangezien ik een voltijdse baan heb en daarbuiten een gevuld programma heb.

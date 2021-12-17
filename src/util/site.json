@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "verwenmassages",
-    "titleTemplate": "%s",
+    "title": "verwenmassages regio Leuven",
+    "titleTemplate": "verwenmassages %s",
     "description": "Massages als verwenkoffie: volledige lichaamsmassage met dát extra, even verkwikkend als een heerlijke verwenkoffie.",
     "siteUrl": "https://verwenkoffie.netlify.app/",
     "image": "/assets/istockphoto-1205484971-1024x1024.jpg",
