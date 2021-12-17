@@ -4,6 +4,7 @@ title: Verwenkoffie deluxe
 slug: verwenkoffie-deluxe
 date: 2021-12-17 10:39
 description: verwenmassage deluxe
+featuredImage: /assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg
 ---
 Voor deze 'deluxe' verwenmassage wil ik je graag wat extra aanbieden in vergelijking met een 'gewone' verwenkoffie.
 
