@@ -4,6 +4,7 @@ title: Verwenkoffie
 slug: verwenkoffie
 date: 2021-12-17 10:52
 description: verwenmassage
+featuredImage: /assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg
 ---
 Met een 'verwenkoffie' bedoel ik een full-body-massage. Ik zal je hele lichaam masseren. Afhankelijk van je wensen start ik bijvoorbeeld eerst met je voeten om het ijs te breken. Hebben we voldoende vertrouwen, dan mag je je op je buik leggen en masseer ik je schouders, nek en rug, waarna ook je armen en benen aan bod komen. Naarmate de temperatuur stijgt, ontdoe je je verder van je kledij en masseer ik de vrijgekomen delen en komen ook je intiemere delen aan bod.
 
