@@ -3,7 +3,6 @@ template: about-page
 slug: /about
 title: Over mij
 ---
-
 Heel fijn dat je meer over me wilt te weten komen!
 
 Ik ben een man geboren in 1981. Ik ben het type dat niet onnmiddellijk opvalt, het type dat je vriendelijke buur had kunnen zijn. Ik ben hoger opgeleid, heb een brede interesse en ben gemakkelijk in de omgang. Ik pendel met de fiets naar het werk en heb daarmee wel een goede basisconditie. Op de foto's kan je zien dat ik normaal gebouwd ben en van nature weinig beharing heb.
@@ -15,6 +14,8 @@ Ik heb ervaren dat het geven van genot en plezier aan een vrouw mij veel voldoen
 Ik heb een full-time job en doe dit voor mijn plezier. Dat betekent enerzijds dat een afspraak met mij geen bandwerk is en met zorg wordt ingevuld. Ik hecht dan ook veel belang aan vooraf goed afstemmen van de wensen en verlangens. Anderzijds kan ik niet altijd tijd vrijmaken voor een afspraak. Ik tracht de pagina met mijn beschikbaarheid regelmatig up-to-date te houden!
 
 Vertrouwen, hygiëne en discretie draag ik hoog in het vaandel. Ik verwacht dat ook van jou.
+
+Ik wens enkel afspraken te maken met vrouwen vanaf 30 jaar. Ben je 50+ of 60+, dan mag je niet aarzelen om contact op te nemen!
 
 Heb ik je interesse kunnen vasthouden? Goed! Je mag in het aanbod eens kijken welke 'verwenkoffies' er zijn! Heb je vragen, bedenkingen, twijfels, ... aarzel dan niet om me geheel vrijblijvend te contacteren.
 
