@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Verwenkoffie
-slug: verwenkoffie
+slug: /verwenkoffie
 date: 2021-12-17 10:52
 description: verwenmassage
 featuredImage: /assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg
